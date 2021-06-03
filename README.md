@@ -20,4 +20,4 @@ Projeto desenvolvido na Trybe com o objetivo de construir uma aplicação statef
 ```
 
 # Deploy
-https://thalitac.github.io/trybe-project-movie-cards-library-stateful/
+https://trybe-project-movie-cards-library-stateful.netlify.app
